@@ -20,12 +20,17 @@ Basically, this intended to be a platform for enhancement modules.
 This take was based on new knowledge gained during my programming level up.
 
 The basic ideas were:
+
 1. Splitting the *migvkscript* into Platform and Modules
 2. Split everything in modules with **separated updates lyfecycle and versioning**
 3. Adding some internationalization
 4. Synchronization between tabs
 5. Adding the ability to install 3rd-party code **in runtime**
 6. **Using Google Code hosting as an assets server**
+7. **Crossbrowser support for a single userscript**
+
+
+Some related articles can be found on [habrahabr](http://habr.ru)
 
 Is it working?
 ==============
